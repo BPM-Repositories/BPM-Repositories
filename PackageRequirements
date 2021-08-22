@@ -1,0 +1,6 @@
+Requirements for creating your own package
+==========================================
+(Some of these rules may change)
+
+-- The repository must include an "install.sh" or a make file that executes the install.sh
+(Work in Progress)
